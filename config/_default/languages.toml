@@ -9,7 +9,7 @@
   languageName = "Ukrainian"
   contentDir = "content/ua"
   weight = 10
-  [en.params]
+  [ua.params]
     languageISO = "UA"
 
 
@@ -17,5 +17,5 @@
   languageName = "Russian"
   contentDir = "content/ru"
   weight = 10
-  [en.params]
+  [ru.params]
     languageISO = "RU"
