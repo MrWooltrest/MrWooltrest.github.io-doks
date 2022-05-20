@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: GitHub Pages (unused)
 
 on:
   workflow_dispatch:
