@@ -1,19 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "MrWooltrest.github.io"
+title = "My small website"
 titleSeparator = "-"
 titleAddition = "My small website"
 description = "New, but still small website with random stuff, based on Doks Theme"
-
-## Documentation
-# docsVersion = "0.3"
-
-## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
@@ -22,7 +13,7 @@ twitterCreator = "@henkverlinde"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
+schemaName = "MrWooltrest.github.io"
 schemaAuthor = "Henk Verlinde"
 schemaAuthorTwitter = "https://twitter.com/henkverlinde"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
@@ -36,7 +27,7 @@ schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/getdoks"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/MrWooltrest/MrWooltrest.github.io"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
