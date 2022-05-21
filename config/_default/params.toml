@@ -1,23 +1,23 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "My small website"
+title = "MrWooltrest.github.io"
 titleSeparator = "-"
 titleAddition = "My small website"
 description = "New, but still small website with random stuff, based on Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@MrWooltrest"
+twitterCreator = "@MrWooltrest"
 
 ## JSON-LD
-# schemaType = "Person"
-schemaType = "Organization"
+schemaType = "Person"
+# schemaType = "Organization"
 schemaName = "MrWooltrest.github.io"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaAuthor = "MrWooltrest"
+schemaAuthorTwitter = "https://twitter.com/MrWooltrest"
+# schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorGitHub = "https://github.com/MrWooltrest"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -25,7 +25,7 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/MrWooltrest"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/MrWooltrest/MrWooltrest.github.io"
 schemaSection = "blog"
@@ -48,7 +48,7 @@ smallLimit = "300"
 footer = "Powered by <a class=\"text-muted\" href=\"https://pages.github.com/\">GitHub Pages</a> and <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>. Based on <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2022 MrWooltrest"
 
 # Alert
 alert = false
@@ -60,7 +60,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/MrWooltrest/MrWooltrest.github.io"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
